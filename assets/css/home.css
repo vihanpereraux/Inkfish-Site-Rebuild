@@ -1,0 +1,30 @@
+/* 
+    font-family - 'Space Grotesk'
+    Light - 300
+    Regular - 400
+    Medium - 500
+    SemiBold - 600
+    Bold - 700
+*/
+
+.custom_navbar {
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+
+#brand_name {
+    font-family: "Space Grotesk";
+    text-transform: uppercase;
+    color: white;
+}
+
+.first_row {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.second_row {
+    margin-top: -27px;
+    font-size: 15px;
+    font-weight: 700;
+}
